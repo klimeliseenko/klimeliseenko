@@ -13,7 +13,7 @@ I am a novice tester in various areas of testing. I am communicative, responsibl
 ### 🤝 Social network:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/klim-eliseenko-83780b26b/" target="_blank">
+    <a href="https://www.linkedin.com/in/klimeliseenko" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
   </div>
