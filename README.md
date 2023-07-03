@@ -1,9 +1,8 @@
 # Hi there👋
----
 
 ### 👨‍💻 About me:
 
-My name is Klim and I'm QA Engineer.
+My name is Klim and I am a QA Engineer.
 
 - 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@klimeliseenko-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klim-eliseenko-83780b26b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:klimeliseenko@gmail.com)
 
@@ -70,14 +69,5 @@ My name is Klim and I'm QA Engineer.
   
 </div>
 
----
 
-<!-- ### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=klimeliseenko)
