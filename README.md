@@ -1,10 +1,9 @@
-# Hi, i'm Klim!
-
+# Hi, there👋
 ---
 
 ### 👨‍💻 About me:
 
-I am a novice tester in various areas of testing. I am communicative, responsible and proactive. In my future work, I want not just to test the product, but to improve the quality processes within the project and bring new ideas.
+My name is Klim and I'm QA Engineer.
 
 - 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@klimeliseenko-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klim-eliseenko-83780b26b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:klimeliseenko@gmail.com)
 
