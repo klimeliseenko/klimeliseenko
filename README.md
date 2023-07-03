@@ -3,7 +3,7 @@
 My name is Klim and I'm a QA Engineer. Here I want to share my portfolio, compiled during my studies and volunteering.
 
 
-<h2>Briefly About Me/h2>
+<h2>Briefly About Me</h2>
 <ul>
 <li> I’m open to job opportunities </li>
 <li> Finished <a href="https://drive.google.com/file/d/14EMAD6rM65zKIJPcTAUNwrocQnAhxMYc/view?usp=sharing">functional software testing course</a> </li>
