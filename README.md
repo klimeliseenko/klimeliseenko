@@ -1,8 +1,6 @@
 # Hi there👋
 
-### 👨‍💻 About me:
-
-My name is Klim and I am a QA Engineer.
+My name is Klim and I am a QA Engineer. Here I want to share my portfolio, compiled during my studies and which I am constantly updating, testing various services and applications.
 
 - 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@klimeliseenko-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klim-eliseenko-83780b26b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:klimeliseenko@gmail.com)
 
