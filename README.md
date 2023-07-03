@@ -7,10 +7,10 @@ My name is Klim and I'm a QA Engineer. Here I want to share my portfolio, compil
 <ul>
 <li> I’m open to job opportunities </li>
 <li> Finished <a href="https://drive.google.com/file/d/14EMAD6rM65zKIJPcTAUNwrocQnAhxMYc/view?usp=sharing">functional software testing course</a> </li>
-<li>I'm a dreamer who brainstorms ideas every day/li>
-<li>I always take care of two sides in my work: business and clients/li>
-<li>I love quality in all/li>
-<li>Most of my study cases are available on my <a href="https://github.com/klimeliseenko">Github</a></li> </li>
+<li>I'm a dreamer who brainstorms ideas every day</li>
+<li>I always take care of two sides in my work: business and clients</li>
+<li>I love quality in all</li>
+<li>Most of my study cases are available on my <a href="https://github.com/klimeliseenko">Github</a></li>
 <li>Check out my <a href="">resume</a></li>
 </ul>
 <h2>Tools I Use</h2>
@@ -37,7 +37,7 @@ My name is Klim and I'm a QA Engineer. Here I want to share my portfolio, compil
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
 </p>
-<h2 align="center"> Take a look at my repositories and let's get in touch! </h2>
+<h2 align="center">Feel free to contact me and let's get in touch:</h2>
 <p align="center">
 <a href= "https://www.linkedin.com/in/klimeliseenko/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "mailto:klimeliseenko@gmail.com><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
