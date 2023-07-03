@@ -34,13 +34,11 @@ My name is Klim and I'm a QA Engineer. Here I want to share my portfolio, compil
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
 </p>
 <h2 align="center">Feel free to contact me and let's get in touch:</h2>
 <p align="center">
 <a href= "https://www.linkedin.com/in/klimeliseenko/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
-<a href= "mailto:klimeliseenko@gmail.com><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+<a href= "mailto:klimeliseenko@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
 
 
