@@ -34,7 +34,7 @@ My name is Klim and I'm a QA Engineer. Here I want to share my portfolio, compil
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F306500%2Fopenai&psig=AOvVaw0mnvDlE--grScgDBcOohqL&ust=1689797410534000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDc5YSImYADFQAAAAAdAAAAABAE" title="OpenAI" alt="OpenAI" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/306500/openai.svg" title="OpenAI" alt="OpenAI" width="40" height="40"/>
 </p>
 <h2 align="center">Feel free to contact me and let's get in touch:</h2>
 <p align="center">
