@@ -6,7 +6,6 @@ My name is Klim and I'm a QA Engineer. Here I want to share my portfolio, compil
 <h2>Briefly About Me</h2>
 <ul>
 <li> I’m open to job opportunities </li>
-<li> Finished <a href="https://drive.google.com/file/d/14EMAD6rM65zKIJPcTAUNwrocQnAhxMYc/view?usp=sharing">functional software testing course</a> </li>
 <li>I'm a dreamer who brainstorms ideas every day</li>
 <li>I always take care of two sides in my work: business and clients</li>
 <li>I love quality in all</li>
